@@ -178,6 +178,8 @@ namespace Tyuiu.VarovaAA.Sprint6.Task1.V24
             this.Controls.Add(this.groupBoxInput_VAA);
             this.Controls.Add(this.groupBoxRes_VAA);
             this.Controls.Add(this.groupBoxTask_VAA);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
             this.Name = "FormMain";
             this.Text = "Спринт 6 | Таск 1 | Вариант 24 | Варова А. А.";
             this.Load += new System.EventHandler(this.FormMain_Load);

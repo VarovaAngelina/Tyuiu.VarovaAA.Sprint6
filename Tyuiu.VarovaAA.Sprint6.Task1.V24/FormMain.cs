@@ -20,17 +20,17 @@ namespace Tyuiu.VarovaAA.Sprint6.Task1.V24
 
         private void FormMain_Load(object sender, EventArgs e)
         {
-
+            
         }
 
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
-
+            
         }
 
         private void textBox4_TextChanged(object sender, EventArgs e)
         {
-
+            
         }
 
         DataService ds = new DataService();
@@ -76,12 +76,12 @@ namespace Tyuiu.VarovaAA.Sprint6.Task1.V24
 
         private void textBoxVarStart_VAA_TextChanged(object sender, EventArgs e)
         {
-
+            
         }
 
         private void textBoxRes_VAA_TextChanged(object sender, EventArgs e)
         {
-
+            
         }
     }
 }
