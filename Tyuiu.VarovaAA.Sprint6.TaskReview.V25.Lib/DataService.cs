@@ -38,7 +38,7 @@ namespace Tyuiu.VarovaAA.Sprint6.TaskReview.V25.Lib
                 {
                     sum += array[r, i];
                 }
-            }
+            } 
             if (k < 0 || l < k || r < 0 || r >= array.GetLength(0))
             {
                 throw new ArgumentException("Некорректно введены значения");
